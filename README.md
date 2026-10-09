@@ -1,14 +1,22 @@
-# From Bump to Baby — Corrected GitHub Pages Version
+# From Bump to Baby — Platform MVP v3
 
-By **Kerubo Nyakundi**.
+By Nurse Kerubo Nyakundi.
 
-This phone-friendly version has the CSS embedded directly inside every HTML page. There is no `assets` folder dependency, so GitHub Pages can render the design even when only the HTML files are uploaded.
+## Included
+- Mobile-friendly maternal and newborn education website
+- Pregnancy, newborn care, warning signs, first-aid awareness and checklists
+- Mama Journal prototype (browser storage; not a medical record system)
+- Ebook page, About page, consultation page and nurse dashboard UI preview
+- WhatsApp contact: +254 713 070105
 
-## Upload
-Upload every `.html` file and `README.md` to the **repository root**.
+## Publish with GitHub Pages
+1. Download and extract this ZIP.
+2. Upload all files into the root of your `from-bump-to-baby` GitHub repository.
+3. In repository Settings → Pages, publish from the `main` branch and root folder.
+4. Open your GitHub Pages URL.
 
-Expected URL:
-`https://light572.github.io/from-bump-to-baby/`
+## Before launch
+Check all pages on a phone, add the final ebook PDF or purchase link, and confirm the consultation fee and availability with Kerubo.
 
-## Next
-Integrate the final ebook PDF, then build the nurse dashboard, appointments, M-Pesa payments, secure accounts and pregnancy tracker.
+## Safety and privacy
+This is a static prototype. Do not store real patient records or sensitive health data in this site. A production healthcare platform needs secure authentication, access controls, encrypted storage, backups and appropriate privacy practices. Educational content should be reviewed by a qualified healthcare professional before publication.
