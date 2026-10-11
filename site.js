@@ -1,0 +1,1 @@
+document.querySelectorAll('a[href^=\"#\"]').forEach(a=>a.addEventListener('click',()=>{const m=document.querySelector('.mobile-menu');if(m)m.classList.remove('open')}));
