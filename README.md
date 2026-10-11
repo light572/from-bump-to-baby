@@ -1,22 +1,27 @@
-# From Bump to Baby — Platform MVP v3
+# From Bump to Baby — Website Refresh V4
 
 By Nurse Kerubo Nyakundi.
 
-## Included
-- Mobile-friendly maternal and newborn education website
-- Pregnancy, newborn care, warning signs, first-aid awareness and checklists
-- Mama Journal prototype (browser storage; not a medical record system)
-- Ebook page, About page, consultation page and nurse dashboard UI preview
-- WhatsApp contact: +254 713 070105
+## What changed in V4
+- Completely refreshed responsive design with shared stylesheet and typography
+- Stronger visual homepage, abstract maternity-themed illustration, improved spacing and cards
+- Responsive mobile navigation with working links across pages
+- Pregnancy, newborn care, warning signs, first aid, checklists, Mama Journal, book, consultation, about and dashboard preview pages
+- WhatsApp consultation link uses +254 713 070105
+- Journal demo saves only in the current browser/device; not secure medical records
 
-## Publish with GitHub Pages
-1. Download and extract this ZIP.
-2. Upload all files into the root of your `from-bump-to-baby` GitHub repository.
-3. In repository Settings → Pages, publish from the `main` branch and root folder.
-4. Open your GitHub Pages URL.
+## Publish on GitHub Pages
+1. Download and extract the ZIP.
+2. Open the existing `from-bump-to-baby` GitHub repository.
+3. Upload **all files inside this folder** to the repository root (not the folder itself).
+4. Choose to replace existing files when prompted. Make sure `index.html`, `styles.css`, `site.js` and the other HTML pages are in the root together.
+5. Commit the changes to the branch/folder configured in Settings → Pages.
+6. Open the live URL and hard-refresh, or test in an incognito tab.
 
-## Before launch
-Check all pages on a phone, add the final ebook PDF or purchase link, and confirm the consultation fee and availability with Kerubo.
+## Why the old site may not change
+GitHub Pages serves files from the configured repository branch and folder. Uploading a ZIP into a repository without extracting it, uploading into a nested folder, or committing to a different branch will not replace the live homepage.
 
-## Safety and privacy
-This is a static prototype. Do not store real patient records or sensitive health data in this site. A production healthcare platform needs secure authentication, access controls, encrypted storage, backups and appropriate privacy practices. Educational content should be reviewed by a qualified healthcare professional before publication.
+## Still to connect
+- The final ebook PDF or Selar checkout URL is not included because the completed book file/link has not been supplied here.
+- The dashboard is a static preview only. Do not collect patient data without a secure backend and privacy safeguards.
+- Educational content must be reviewed by a qualified healthcare professional before public clinical use.
