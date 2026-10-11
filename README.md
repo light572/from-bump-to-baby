@@ -25,3 +25,7 @@ GitHub Pages serves files from the configured repository branch and folder. Uplo
 - The final ebook PDF or Selar checkout URL is not included because the completed book file/link has not been supplied here.
 - The dashboard is a static preview only. Do not collect patient data without a secure backend and privacy safeguards.
 - Educational content must be reviewed by a qualified healthcare professional before public clinical use.
+
+
+## Ebook checkout
+The book purchase buttons link to the existing Selar product: https://selar.com/7926o1ka6p. Selar handles checkout and the digital product delivery.
